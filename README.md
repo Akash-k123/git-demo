@@ -1,4 +1,4 @@
 # git-demo
 this is my first repository.
 <br>
-Author- Akash (akash-k123)
+Author- Akash (akash-k)
